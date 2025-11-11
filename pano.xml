@@ -120,8 +120,8 @@
       <hotspot title="" target="" pan="-205.81" url="{node2}" description="" skinid="ht_node" id="Point01" tilt="-5.42"/>
     </hotspots>
     <media>
-      <video level="1.000" pansize="10.000" nodechangekeep="0" rotx="-26.690" ambientlevel="0.000" width="1920" pan="46.520" handcursor="0" fov="14.090" hidepinned="0" clickmode="0" tilt="-27.560" mode="1" tiltsize="10.000" id="Element01" popoutscaling="100" popbackmode="0" height="1080" loop="1" startmutedmobile="0" roty="-39.390" rotz="-24.350" field="90.000" stretch="1.114" maskimage="media/23011-332483109_small-mask.png">
-        <source url="media/185787-876545918_small.mp4"/>
+      <video level="1.000" pansize="10.000" nodechangekeep="0" rotx="-24.590" ambientlevel="0.000" width="1920" pan="46.480" handcursor="0" fov="14.160" hidepinned="0" clickmode="0" tilt="-27.600" mode="1" tiltsize="10.000" id="Element01" popoutscaling="100" popbackmode="0" height="1080" loop="1" startmutedmobile="0" roty="-38.860" rotz="-23.800" field="90.000" stretch="1.129" maskimage="media/23011-332483109_small-mask.png">
+        <source url="media/23011-332483109_small-1.mp4"/>
       </video>
     </media>
     <transition zoomout="0" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" enabled="1" delay="none" zoomafterinfov="140" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
