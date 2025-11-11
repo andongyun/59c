@@ -176,6 +176,8 @@
       <label textcolor="0x000000" background="1" textalpha="1" backgroundalpha="1" enabled="1" backgroundcolor="0xffffff" width="180" height="20" border="1" borderalpha="1" borderradius="1" wordwrap="1" bordercolor="0x000000"/>
       <polystyle handcursor="1" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
       <hotspot title="" target="" pan="-182.35" url="{node12}" description="" skinid="ht_node" id="Point01" tilt="-2.63"/>
+      <hotspot title="" target="" pan="-213.81" url="{node2}" description="" skinid="ht_node" id="Point02" tilt="-1.28"/>
+      <hotspot title="" target="" pan="-149.11" url="{node8}" description="" skinid="ht_node" id="Point03" tilt="-5.96"/>
     </hotspots>
     <media>
       <video level="1.000" pansize="10.000" nodechangekeep="0" rotx="-12.460" ambientlevel="0.000" width="960" pan="-158.540" handcursor="0" fov="17.840" hidepinned="0" clickmode="0" tilt="-4.500" mode="1" tiltsize="10.000" id="Element01" popoutscaling="100" popbackmode="0" height="540" loop="0" startmutedmobile="0" roty="-69.300" rotz="-11.380" field="90.000" stretch="0.966" maskimage="media/4740-179738694_small-mask.png">
